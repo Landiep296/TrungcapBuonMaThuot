@@ -1,0 +1,27 @@
+# Chương trình đào tạo ngành Kỹ thuật chế biến món ăn
+
+1. [Giới thiệu chương trình](#gioi-thieu-chuong-trinh)
+2. [Mục tiêu đào tạo](#muc-tieu-dao-tao)
+   - [Mục tiêu chung](#muc-tieu-chung)
+   - [Mục tiêu cụ thể](#muc-tieu-cu-the)
+3. [Vị trí việc làm sau khi tốt nghiệp](#vi-tri-viec-lam)
+4. [Khối lượng kiến thức và thời gian khóa học](#khoi-luong-kien-thuc)
+5. [Nội dung chương trình](#noi-dung-chuong-trinh)
+   - [Các môn học chung](#cac-mon-hoc-chung)
+   - [Các môn học, mô đun chuyên môn](#cac-mon-hoc-chuyen-mon)
+   - [Thực tập tốt nghiệp](#thuc-tap-tot-nghiep)
+   - [Môn học tự chọn](#mon-hoc-tu-chon)
+6. [Tổng hợp các năng lực của ngành, nghề](#tong-hop-nang-luc)# Chương trình đào tạo ngành Kỹ thuật chế biến món ăn
+
+1. [Giới thiệu chương trình](#gioi-thieu-chuong-trinh)
+2. [Mục tiêu đào tạo](#muc-tieu-dao-tao)
+   - [Mục tiêu chung](#muc-tieu-chung)
+   - [Mục tiêu cụ thể](#muc-tieu-cu-the)
+3. [Vị trí việc làm sau khi tốt nghiệp](#vi-tri-viec-lam)
+4. [Khối lượng kiến thức và thời gian khóa học](#khoi-luong-kien-thuc)
+5. [Nội dung chương trình](#noi-dung-chuong-trinh)
+   - [Các môn học chung](#cac-mon-hoc-chung)
+   - [Các môn học, mô đun chuyên môn](#cac-mon-hoc-chuyen-mon)
+   - [Thực tập tốt nghiệp](#thuc-tap-tot-nghiep)
+   - [Môn học tự chọn](#mon-hoc-tu-chon)
+6. [Tổng hợp các năng lực của ngành, nghề](#tong-hop-nang-luc)
