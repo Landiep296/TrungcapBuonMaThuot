@@ -1,4 +1,3 @@
-
 # Chương trình đào tạo ngành Kỹ thuật chế biến món ăn
 
 1. [Giới thiệu chương trình](https://bmtc.edu.vn/chuong-trinh-dao-tao-nghanh-ky-thuat-che-bien-mon-an/#gioi-thieu-chuong-trinh)
